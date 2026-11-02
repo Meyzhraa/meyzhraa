@@ -5,16 +5,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F472B6&center=true&vCenter=true&width=435&lines=Fresh+Graduate+Web+Developer;Membangun+Aplikasi+Web;Mendalami+Next.js+%26+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F472B6&center=true&vCenter=true&width=435&lines=Fresh+Graduate+Web+Developer;Membangun+Aplikasi+Web;Mendalami+Next.js+%26+React;UI%2FUX+Design+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌷 Tentang Saya
-- 🎓 **Status:** Fresh Graduate Teknik Informatika
+Fresh graduate S1 Teknik Informatika Universitas Pamulang yang suka eksplorasi hal baru di dunia IT. Selain belajar dari kampus—termasuk dasar-dasar **UI/UX & Figma**—saya aktif mengasah kemampuan secara otodidak, terutama di bidang web development modern.
+
+- 🎓 **Status:** Fresh Graduate S1 Teknik Informatika, Universitas Pamulang
 - 🔭 **Proyek Saat Ini:** Mengembangkan aplikasi **Catatan Keuangan**
-- 🌱 **Sedang Dipelajari:** Next.js & ekosistem React modern
-- 💬 **Keahlian & Pengalaman:** PHP, MySQL/XAMPP, JavaScript, dan pengembangan web dasar
+- 🌱 **Sedang Dipelajari:** Next.js, ekosistem React modern, & pengembangan skill secara mandiri
+- 💬 **Keahlian:** PHP, MySQL/XAMPP, JavaScript, HTML/CSS, Git, serta dasar UI/UX & Figma
 - 📫 **Email:** mylidazzhara@gmail.com
 
 ---
@@ -29,6 +31,12 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   
+  <br />
+
+  <!-- UI/UX & Design -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX-FF4081?style=flat-square&logo=adobexd&logoColor=white" />
+
   <br />
 
   <!-- Backend & Database -->
